@@ -24,4 +24,4 @@ The Touch Board has been specifically designed to be a microcontroller board wit
 
 - Up to 32GB via micro SD card
 
-- [Full Data Sheet here]
+- [Full Data Sheet here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_TechDataSheet.pdf)
