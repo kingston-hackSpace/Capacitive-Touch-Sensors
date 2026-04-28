@@ -35,6 +35,6 @@ The Bare Conductive Touch Board is an easy-to-use board that gives you the abili
 
 It offers 12 electrodes that can be attached to create light switches, musical instruments, or custom interactive surfaces all through the Arduino IDE. 
 
-[Read more here]
+[Read more here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Bare_Conductive_Touch_Board.md)
 
 
