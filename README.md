@@ -29,6 +29,12 @@ The MPR121 is a 12-channel capacitive touch sensor module.
 [Read more here](https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial)
 
 ----
-### Bare Conductive Touch Board
+### Bare Conductive Touch Board for Sound Projects  
+
+The Bare Conductive Touch Board is an easy-to-use board that gives you the ability to turn almost any material or surface into a sensor. 
+
+It offers 12 electrodes that can be attached to create light switches, musical instruments, or custom interactive surfaces all through the Arduino IDE. 
+
+[Read more here]
 
 
