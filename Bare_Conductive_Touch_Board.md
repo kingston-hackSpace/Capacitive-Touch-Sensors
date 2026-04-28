@@ -38,14 +38,16 @@ Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board 
 
 2. Download the Hardware Plugin here: [bare-conductive-arduino-public.zip](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/bare-conductive-arduino-public.zip)
 
-Create a hardware folder
+3. Create a hardware folder:
 
-Windows: Libraries/Documents/Arduino/hardware
+   - Windows: Libraries/Documents/Arduino/hardware
 
-OR My Documents/Arduino/hardware
+   - OR My Documents/Arduino/hardware
 
-Mac: Documents/Arduino/hardware
+   - Mac: Documents/Arduino/hardware
 
-Linux (Ubuntu): Home/Arduino/hardware
+   - Linux (Ubuntu): Home/Arduino/hardware
 
-Unzip and put the folder inside the hardware folder
+4. Unzip and put the folder inside the hardware folder
+
+5. Now open Arduino IDE, and navegate (top bare) > Tools > Boards > Bare Conductive Boards
