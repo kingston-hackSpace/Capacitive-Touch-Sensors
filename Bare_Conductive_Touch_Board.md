@@ -1,12 +1,16 @@
 # Bare Conductive Touch Board
 
-The Bare Conductive Touch Board is an easy-to-use board that gives you the ability to turn almost any material or surface into a sensor. 
+The Bare Conductive Touch Board is an easy‑to‑use, Arduino‑compatible board designed to help you **turn almost any material or surface into a touch sensor.** 
 
-It offers 12 electrodes that can be attached to create light switches, musical instruments, or custom interactive surfaces all through the Arduino IDE. 
+**12 ELECTRODES**
 
-It is equipped with an onboard MP3 player making it capable of turning your favorite song into a MIDI tune.
+The board has **12 built‑in capacitive electrodes** that respond to touch. These electrodes can be extended using conductive materials such as electric paint, foil, wire, or everyday conductive objects, making it possible to create touch‑sensitive illustrations, light switches, musical instruments, or custom interactive surfaces.
 
-The Touch Board has been specifically designed to be a microcontroller board with dedicated capacitive touch and MP3 decoder ICs. Each board has a 3.5mm audio jack and micro SD card holder (for file storage), as well as its own 128MB micro SD card. 
+**MAKING SOUND**
+
+One of the Touch Board’s key features is its on‑board MP3 player and MIDI synthesizer. Touching an electrode can trigger a sound file from a microSD card, or act like a musical note in a digital instrument. This means you can create sound‑based interactions without writing any code, while still having the option to use the Arduino IDE for more advanced projects.
+
+ It includes a 3.5 mm audio jack for headphones or speakers, and a microSD card slot for storing sound files. 
 
 [Watch this example for guidance](https://www.youtube.com/watch?v=pVvEQUbhar8)
 
