@@ -36,7 +36,7 @@ Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board 
 
 1. Quit Arduino if you have it opened.
 
-2. Download the Hardware Plugin here: [bare-conductive-arduino-public.zip]
+2. Download the Hardware Plugin here: [bare-conductive-arduino-public.zip](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/bare-conductive-arduino-public.zip)
 
 Create a hardware folder
 
