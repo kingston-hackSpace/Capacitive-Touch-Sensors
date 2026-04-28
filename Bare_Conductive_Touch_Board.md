@@ -15,7 +15,6 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 [Watch this example for guidance](https://www.youtube.com/watch?v=pVvEQUbhar8)
 
 ----
-
 ### Features
 
 - 5V operating voltage
@@ -29,3 +28,24 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 - Up to 32GB via micro SD card
 
 - [Full Data Sheet here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_TechDataSheet.pdf)
+
+----
+### Hardware Plugin
+
+Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board we are using, in this case, the Bare Conductive Touch Board. However, you cannot find the Touch Board from Tools - Boards. We have to download and put the plugin in place.
+
+1. Quit Arduino if you have it opened.
+
+2. Download the Hardware Plugin here: [bare-conductive-arduino-public.zip]
+
+Create a hardware folder
+
+Windows: Libraries/Documents/Arduino/hardware
+
+OR My Documents/Arduino/hardware
+
+Mac: Documents/Arduino/hardware
+
+Linux (Ubuntu): Home/Arduino/hardware
+
+Unzip and put the folder inside the hardware folder
