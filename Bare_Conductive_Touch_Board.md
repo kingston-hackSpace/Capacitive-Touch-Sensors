@@ -30,6 +30,27 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 - [Full Data Sheet here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_TechDataSheet.pdf)
 
 ----
+### Audio Files
+
+- Max 12 audio files
+  
+- Only MP3 files (free audio via available at [Freesound](https://www.freesound.org/))
+
+- Name your files as follows:
+
+  - TRACK000.mp3
+  
+  - TRACK001.mp3
+  
+  - TRACK002.mp3
+  
+  - ...up to TRACK011.mp3
+
+ - Save the files in the micro SD card.
+
+ - Insert the card in the Bare Conductive Touch Board
+
+----
 ### Hardware Plugin
 
 Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board we are using, in this case, the Bare Conductive Touch Board. However, you cannot find the Touch Board from Tools - Boards. We have to download and put the plugin in place.
@@ -51,27 +72,6 @@ Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board 
 4. Unzip and put the folder inside the hardware folder
 
 5. Now open Arduino IDE, and navegate (top bare) > Tools > Boards > Bare Conductive Boards
-
-----
-### Audio Files
-
-- Max 12 audio files
-  
-- Only MP3 files (free audio via available at [Freesound](https://www.freesound.org/))
-
-- Name your files as follows:
-
-  - TRACK000.mp3
-  
-  - TRACK001.mp3
-  
-  - TRACK002.mp3
-  
-  - ...up to TRACK011.mp3
-
- - Save the files in the micro SD card.
-
- - Insert the card in the Bare Conductive Touch Board
    
 ----
 ### Code and Instructions
