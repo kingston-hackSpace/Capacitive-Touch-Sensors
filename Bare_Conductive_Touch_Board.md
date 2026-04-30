@@ -34,7 +34,11 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 
 - Max 12 audio files
   
-- Only MP3 files (free audio via available at [Freesound](https://www.freesound.org/))
+- Only MP3 files
+
+- Download [these audios](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/tree/main/audios) for testing with your board
+
+- Free audio via available at [Freesound](https://www.freesound.org/))
 
 - Name your files as follows:
 
