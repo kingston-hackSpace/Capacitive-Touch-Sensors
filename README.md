@@ -1,6 +1,6 @@
 # Capacitive Touch Sensors
 
-Read more about [capacitive sensing here]
+Read more about [capacitive sensing here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Capacitive_sensing.md)
 
 ----
 # Sensors:
