@@ -4,7 +4,7 @@
   
 - Only MP3 files
 
-- Optional: Download [these audios](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/tree/main/audios) to test your Touch Board
+- Optional: Download these [audios](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/tree/main/audios) to test your Touch Board
 
 - Optional: Download (free) audios at [Freesound](https://www.freesound.org/)
 
