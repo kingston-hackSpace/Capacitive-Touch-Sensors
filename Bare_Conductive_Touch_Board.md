@@ -35,31 +35,9 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 Follow our [SET-UP INSTRUCTIONS](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/BareConduct_setup.md) to use the Touch Board for the first time. 
 
 ----
-### About Audio Files
+### AUDIO INSTRUCTIONS
 
-- Max 12 audio files
-  
-- Only MP3 files
-
-- Download [these audios](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/tree/main/audios) for testing with your board
-
-- Free audio via available at [Freesound](https://www.freesound.org/))
-
-- Name your files as follows:
-
-  - TRACK000.mp3
-  
-  - TRACK001.mp3
-  
-  - TRACK002.mp3
-  
-  - ...up to TRACK011.mp3
-
- - Save the files in the micro SD card.
-
- - Insert the card in the Bare Conductive Touch Board
-
-
+Set-up your audio files as instructed [here]
 
 ---
 
