@@ -13,27 +13,25 @@ Learn more about capacitive sensing :
 [Simple Capacitive Sensor with Arduino Uno](https://www.aranacorp.com/en/create-a-capacitive-sensor-with-arduino/)
 
 ----
-# Capativice Sensors available at hackSpace:
+# Sensors:
 
-### TTP223B Touch Sensor with Arduino
+### 1 - TTP223B Touch Sensor with Arduino
 
 The TTP223B is a 1-channel capacitive touch sensor module.
 
 [Read more here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TTP223B_Touch_Sensor.md)
 
 ----
-### Adafruit MPR121 12-Key Capacitive Touch Sensor with Arduino
+### 2 - Adafruit MPR121 12-Key Capacitive Touch Sensor with Arduino
 
 The MPR121 is a 12-channel capacitive touch sensor module.
 
 [Read more here](https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial)
 
 ----
-### Bare Conductive Touch Board for Sound Projects  
+### 3 - Bare Conductive Touch Board for *Sound Projects*  
 
-The Bare Conductive Touch Board is an easy-to-use board that gives you the ability to turn almost any material or surface into a sensor. 
-
-It offers 12 electrodes that can be attached to create light switches, musical instruments, or custom interactive surfaces all through the Arduino IDE. 
+It offers 12 electrodes that can be attached to create light switches, musical instruments, and more. 
 
 [Read more here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Bare_Conductive_Touch_Board.md)
 
