@@ -1,4 +1,4 @@
-# understanding Capacitive sensors
+# Understanding Capacitive sensors
 
 A capacitive sensor is a type of sensor that detects touch or proximity by sensing changes in an electrical field. When a person touches or comes close to the sensor, their body (which can conduct electricity) changes the capacitance, and the sensor detects this change.
 
