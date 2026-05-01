@@ -12,7 +12,7 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 
  It includes a 3.5 mm audio jack for headphones or speakers, and a microSD card slot for storing sound files. 
 
-[Watch this example for guidance](https://www.youtube.com/watch?v=pVvEQUbhar8)
+[Watch this video for guidance](https://www.youtube.com/watch?v=pVvEQUbhar8)
 
 ----
 ### Features
