@@ -1,6 +1,6 @@
 # DIY Capacitive Sensor
 
-Any conductive material could be used as a capacitive sensor, just by programming a micro-controller (such as Arduino UNO) and the corresponding libraries.
+Any conductive material could be used as a capacitive sensor, just by programming a micro-controller (such as Arduino UNO) and using the corresponding libraries.
 
 -----
 ### HARDWARE
