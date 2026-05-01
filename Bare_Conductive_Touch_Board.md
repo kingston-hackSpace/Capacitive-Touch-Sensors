@@ -59,7 +59,7 @@ Repeat the following steps everytime you plug your board to your computer:
 
 1. Download this [basic Arduino code example](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Touch_MP3.zip) and upload it to your Touch Board.
 
-2. Touch the board's electrodes to trigger the sounds!
+2. Touch the board's electrodes to trigger the sounds! (remember to turn on the speaker)
 
 ----
 ### More tutorials
