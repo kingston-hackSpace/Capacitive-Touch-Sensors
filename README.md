@@ -1,7 +1,5 @@
 # Capacitive Touch Sensors
 
-### Understanding Capactive Sensing
-
 Read more about [capacitive sensing here]
 
 ----
