@@ -87,20 +87,8 @@ Find additional instructions (with images) [here](https://github.com/kingston-ha
 
 11. Done! You *don't need* to repeat this steps again. 
 
----
-
-### Instructions 3: Select the board
-
-Repeat the following steps everytime you plug your board to your computer:
-
-1. Select the corresponding board at the box at the top left of your Arduino IDE (might be something like "/dev/cu/usbmodem1101") and click OK.
-
-2. At the same box, it should say Bare Conductive Touch Board **in bold letters**
-
-3. Your board is ready to programme!
-
 ----
-### Instructions 4: Installing libraries
+### Instructions 3: Installing libraries
 
 1. Donwload [this .zip folder](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_libraries.zip). We will be back at it later. 
 
@@ -119,6 +107,17 @@ Repeat the following steps everytime you plug your board to your computer:
  
  6.    and put  folder inside your newrly created hardware folder. You can close all folders now.
 
+---
+
+### Instructions 4: Select the board
+
+Repeat the following steps everytime you plug your board to your computer:
+
+1. Select the corresponding board at the box at the top left of your Arduino IDE (might be something like "/dev/cu/usbmodem1101") and click OK.
+
+2. At the same box, it should say Bare Conductive Touch Board **in bold letters**
+
+3. Your board is ready to programme!
 ----
 ### More tutorials
 
