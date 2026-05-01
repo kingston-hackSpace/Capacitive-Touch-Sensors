@@ -10,7 +10,7 @@ The board has **12 built‑in capacitive electrodes** that respond to touch. The
 
 One of the Touch Board’s key features is its on‑board MP3 player and MIDI synthesizer. Touching an electrode can trigger a sound file from a microSD card, or act like a musical note in a digital instrument. This means you can create sound‑based interactions without writing any code, while still having the option to use the Arduino IDE for more advanced projects.
 
- It includes a 3.5 mm audio jack for headphones or speakers, and a microSD card slot for storing sound files. 
+ It includes a **3.5 mm audio jack** for headphones or speakers, and a **microSD card** for storing sound files. 
 
 [Watch this video for guidance](https://www.youtube.com/watch?v=pVvEQUbhar8)
 
@@ -42,13 +42,13 @@ Follow our [AUDIO INSTRUCTIONS](https://github.com/kingston-hackSpace/Capacitive
 ---
 ### Instructions 3: SELECT THE BOARD
 
-Repeat the following steps everytime you plug your board to your computer:
+Repeat the following steps every time you plug your board to your computer:
 
-1. Plug your the Touch Board to your computer via the USB cable.
+1. Plug the Touch Board to your computer via the USB cable.
 
-2. Make sure the on/off switch at the bottom left hand corner of your Touch Board is switched to ON. You should see the green light next to the on/off switch come on.
+2. Make sure the on/off switch at the bottom left corner of your Touch Board is switched to ON. You should see the green light next to the on/off switch come on.
 
-3. Open the Arduino IDE, ans select the corresponding board at the box at the top left of your Arduino IDE (might be something like "/dev/cu/usbmodem1101") and click OK.
+3. Open the Arduino IDE, and select the corresponding board from the box at the top left of your Arduino IDE (might be something like "/dev/cu/usbmodem1101") and click OK.
 
 4. At the same box, it should say Bare Conductive Touch Board **in bold letters**
 
