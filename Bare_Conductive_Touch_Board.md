@@ -44,11 +44,15 @@ Follow our [AUDIO INSTRUCTIONS](https://github.com/kingston-hackSpace/Capacitive
 
 Repeat the following steps everytime you plug your board to your computer:
 
-1. Select the corresponding board at the box at the top left of your Arduino IDE (might be something like "/dev/cu/usbmodem1101") and click OK.
+1. Plug your the Touch Board to your computer via the USB cable.
 
-2. At the same box, it should say Bare Conductive Touch Board **in bold letters**
+2. Make sure the on/off switch at the bottom left hand corner of your Touch Board is switched to ON. You should see the green light next to the on/off switch come on.
 
-3. Your board is ready to programme!
+3. Open the Arduino IDE, ans select the corresponding board at the box at the top left of your Arduino IDE (might be something like "/dev/cu/usbmodem1101") and click OK.
+
+4. At the same box, it should say Bare Conductive Touch Board **in bold letters**
+
+5. Your board is ready to programme!
 
 ---
 ### Instructions 4: CODING EXAMPLE
