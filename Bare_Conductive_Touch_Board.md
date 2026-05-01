@@ -61,6 +61,8 @@ Repeat the following steps every time you plug your board to your computer:
 
 2. Touch the board's electrodes to trigger the sounds! (remember to turn on the speaker)
 
+3. Download [this zip folder to explore more examples](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Touch%20Board%20Examples.zip)
+
 ----
 ### More tutorials
 
