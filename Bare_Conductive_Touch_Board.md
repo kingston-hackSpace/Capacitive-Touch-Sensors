@@ -90,22 +90,21 @@ Find additional instructions (with images) [here](https://github.com/kingston-ha
 ----
 ### Instructions 3: Installing libraries
 
-1. Donwload [this .zip folder](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_libraries.zip). We will be back at it later. 
+1. Donwload [this .zip folder](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_libraries.zip), and unzip.
 
-2. Find the *libraries* folder in your Arduino folder:
+2. You should now see 3 folders (MPR121, SdFat, and SFEMP3Shield)
 
-   - Windows: Libraries/Documents/Arduino/
+3. Copy and paste these 3 folders into the *libraries* folder inside the main Arduino folder located at:  
 
-   - OR My Documents/Arduino/
+   - Windows: Libraries/Documents/Arduino/libraries
 
-   - Mac: Documents/Arduino/
+   - OR My Documents/Arduino/libraries
 
-   - Linux (Ubuntu): Home/Arduino/
-  
- 3. Once at your *libraries* folder, unzip your download.
+   - Mac: Documents/Arduino/libraries
 
- 
- 6.    and put  folder inside your newrly created hardware folder. You can close all folders now.
+   - Linux (Ubuntu): Home/Arduino/libraries
+
+ 4. Done! Close all folders. You don't need to repeat these steps again. 
 
 ---
 
