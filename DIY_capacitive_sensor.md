@@ -29,13 +29,13 @@ Any conductive material could be used as a capacitive sensor, just by programmin
 ----
 ### TUTORIAL 1: Trigger to the touch
 
-- See [wiring diagram here]
+- See [wiring (touch) diagram here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Diagram_TriggerTouch.png)
 
-- Download and upload [this code] to your Arduino board
+- Download and upload [this (touch) code](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/DIY_trigger_touch.ino) to your Arduino board
   
 ----
 ### TUTORIAL 2: Sensing (capacitive) proximity
 
-- See [wiring diagram here]
+- See [wiring (proximity) diagram here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Diagram_TriggerProximity.png)
 
-- Download and upload [this code] to your Arduino board
+- Download and upload [this code](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/DIY_triggerProximity.ino) to your Arduino board
