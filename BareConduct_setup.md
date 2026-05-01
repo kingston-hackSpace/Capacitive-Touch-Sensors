@@ -5,7 +5,7 @@
 
 Find additional instructions (with images) [here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/RS_TouchBoard_instructions.pdf)
 
-1. Quit Arduino if you have it opened.
+1. Quit Arduino if it is opened.
 
 2. Download the Hardware Plugin here: [bare-conductive-arduino-public.zip](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/bare-conductive-arduino-public.zip). We will come back to this later. 
 
@@ -19,24 +19,24 @@ Find additional instructions (with images) [here](https://github.com/kingston-ha
 
    - Linux (Ubuntu): Home/Arduino/
 
-5. Once at your Arduino folder, inside create a *hardware* folder (no capitals, no other name)
+5. Once at your Arduino folder, inside create a *hardware* folder (all lowercase)
 
-6. Unzip the previous download (bare-conductive-arduino-public.zip), and put that folder inside your newrly created *hardware* folder. You can close all folders now.
+6. Unzip the previous download (bare-conductive-arduino-public.zip), and put that folder inside your newly created *hardware* folder. You can close all folders now.
 
-7. Plug your the Touch Board to your computer via the USB cable.
+7. Plug the Touch Board to your computer via the USB cable.
 
-8. Make sure the on/off switch at the bottom left hand corner of your Touch Board is switched to ON. You should see the green light next to the on/off switch come on.
+8. Make sure the on/off switch at the bottom left corner of your Touch Board is switched to ON. You should see the green light next to the on/off switch come on.
 
 9. Plug your speaker (or headphones) into the audio jack on the top left hand corner of your board.
 
-10. Open Arduino IDE, and navegate (top bare) > Tools > Boards > Bare Conductive Boards > Bare Conductive Board
+10. Open Arduino IDE, and navigate (top bar) > Tools > Boards > Bare Conductive Boards > Bare Conductive Board
 
 11. Done! You *don't need* to repeat these steps again. 
 
 ----
 ### Instructions 2: Installing libraries
 
-1. Donwload [this .zip folder](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_libraries.zip), and unzip.
+1. Download [this .zip folder](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_libraries.zip), and unzip.
 
 2. You should now see 3 folders (MPR121, SdFat, and SFEMP3Shield)
 
