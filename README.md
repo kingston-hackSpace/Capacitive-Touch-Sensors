@@ -26,3 +26,9 @@ It offers 12 electrodes that can be attached to create light switches, musical i
 [Read more here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Bare_Conductive_Touch_Board.md)
 
 
+----
+### 4 - DIY Capacitive Sensor with Arduino 
+
+Build your own capacitive sensor by only using Arduino. 
+
+[Read more here]
