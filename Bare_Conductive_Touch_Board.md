@@ -30,7 +30,7 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 - [Full Data Sheet here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_TechDataSheet.pdf)
 
 ----
-### Instructions : Audio Files
+### Instructions 1: Audio Files
 
 - Max 12 audio files
   
@@ -55,7 +55,7 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
  - Insert the card in the Bare Conductive Touch Board
 
 ----
-### Instructions: Hardware Plugin
+### Instructions 2: Hardware Plugin
 
 Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board we are using, in this case, the Bare Conductive Touch Board. However, you cannot find the Touch Board from Tools - Boards. We have to download and put the plugin in place.
 
@@ -73,7 +73,7 @@ Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board 
 
    - Linux (Ubuntu): Home/Arduino/
 
-5. once at your Arduino folder, inside create a *hardware* folder (no capitals, no other name)
+5. Once at your Arduino folder, inside create a *hardware* folder (no capitals, no other name)
 
 6. Unzip the folder download before, and put that folder inside your newrly created hardware folder. You can close all folders now.
 
@@ -84,6 +84,23 @@ Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board 
 9. Plug your speaker (or headphones) into the audio jack on the top left hand corner of your board.
 
 10. Open Arduino IDE, and navegate (top bare) > Tools > Boards > Bare Conductive Boards > Bare Conductive Board
+
+11. Done! You *don't need* to repeat this steps again. 
+
+### Instructions 3: Select the board
+
+Repeat the following steps everytime you plug your board to your computer:
+
+1. Select the corresponding board at the box at the top left of your Arduino IDE (might be something like "/dev/cu/usbmodem1101") and click OK.
+
+2. At the same box, it should say Bare Conductive Touch Board **in bold letters**
+
+3. Your board is ready to programme!
+
+----
+### Instructions 4: Code and sound
+
+
 
 ----
 ### More tutorials
