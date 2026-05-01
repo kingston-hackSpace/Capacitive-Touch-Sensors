@@ -1,6 +1,6 @@
 # Bare Conductive Touch Board
 
-The Bare Conductive Touch Board is an easy‑to‑use, Arduino‑compatible board designed to help you **turn almost any material or surface into a touch sensor.** 
+The Bare Conductive Touch Board is an Arduino‑compatible board designed to **turn almost any material or surface into a touch sensor.** 
 
 **12 ELECTRODES:**
 
