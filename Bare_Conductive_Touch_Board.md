@@ -57,7 +57,7 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 ----
 ### Instructions 2: Hardware Plugin
 
-Find additional instructions (with images) [here]
+Find additional instructions (with images) [here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/RS_TouchBoard_instructions.pdf)
 
 1. Quit Arduino if you have it opened.
 
@@ -100,7 +100,7 @@ Repeat the following steps everytime you plug your board to your computer:
 3. Your board is ready to programme!
 
 ----
-### Instructions 4: Code and sound
+### Instructions 4: Installing libraries
 
 
 
