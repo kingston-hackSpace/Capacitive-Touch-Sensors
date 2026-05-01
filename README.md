@@ -31,4 +31,4 @@ It offers 12 electrodes that can be attached to create light switches, musical i
 
 Build your own capacitive sensor by only using Arduino. 
 
-[Read more here]
+[Read more here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/DIY_capacitive_sensor.md)
