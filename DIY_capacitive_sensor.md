@@ -12,11 +12,11 @@ Any conductive material could be used as a capacitive sensor, just by programmin
 - Jumper wires
 
 -----
-### LIBRARIES
+### INSTALLING LIBRARIES
 
 - Open the Arduino IDE
 
-- Open the Library Manager (book shelf icon at the left side of the Arduin IDE)
+- Open the Library Manager ("book shelf" icon at the left side of the Arduino IDE)
 
 - Search for the following libraries at the search box (install both):
 
