@@ -61,30 +61,29 @@ Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board 
 
 1. Quit Arduino if you have it opened.
 
-2. Download the Hardware Plugin here: [bare-conductive-arduino-public.zip](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/bare-conductive-arduino-public.zip)
+2. Download the Hardware Plugin here: [bare-conductive-arduino-public.zip](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/bare-conductive-arduino-public.zip). We will come back to this later. 
 
-3. Create a hardware folder:
+3. You should have an Arduino folder at the following location. Find it.
 
-   - Windows: Libraries/Documents/Arduino/hardware
+   - Windows: Libraries/Documents/Arduino/
 
-   - OR My Documents/Arduino/hardware
+   - OR My Documents/Arduino/
 
-   - Mac: Documents/Arduino/hardware
+   - Mac: Documents/Arduino/
 
-   - Linux (Ubuntu): Home/Arduino/hardware
+   - Linux (Ubuntu): Home/Arduino/
 
-4. Unzip and put the folder inside the hardware folder
+5. once at your Arduino folder, inside create a *hardware* folder (no capitals, no other name)
 
-5. Now open Arduino IDE, and navegate (top bare) > Tools > Boards > Bare Conductive Boards
-   
-----
-### Instructions : Code and sound
+6. Unzip the folder download before, and put that folder inside your newrly created hardware folder. You can close all folders now.
 
-1. Plug your the Touch Board to your computer via the USB cable.
+7. Plug your the Touch Board to your computer via the USB cable.
 
-2. Make sure the on/off switch at the bottom left hand corner of your Touch Board is switched to ON. You should see the green light next to the on/off switch come on.
+8. Make sure the on/off switch at the bottom left hand corner of your Touch Board is switched to ON. You should see the green light next to the on/off switch come on.
 
-3. Plug your speaker (or headphones) into the audio jack on the top left hand corner of your board.
+9. Plug your speaker (or headphones) into the audio jack on the top left hand corner of your board.
+
+10. Open Arduino IDE, and navegate (top bare) > Tools > Boards > Bare Conductive Boards > Bare Conductive Board
 
 ----
 ### More tutorials
