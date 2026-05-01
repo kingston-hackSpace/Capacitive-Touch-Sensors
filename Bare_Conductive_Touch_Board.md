@@ -75,7 +75,7 @@ Find additional instructions (with images) [here](https://github.com/kingston-ha
 
 5. Once at your Arduino folder, inside create a *hardware* folder (no capitals, no other name)
 
-6. Unzip the folder download before, and put that folder inside your newrly created hardware folder. You can close all folders now.
+6. Unzip the previous download (bare-conductive-arduino-public.zip), and put that folder inside your newrly created *hardware* folder. You can close all folders now.
 
 7. Plug your the Touch Board to your computer via the USB cable.
 
@@ -102,7 +102,22 @@ Repeat the following steps everytime you plug your board to your computer:
 ----
 ### Instructions 4: Installing libraries
 
+1. Donwload [this .zip folder](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_libraries.zip). We will be back at it later. 
 
+2. Find the *libraries* folder in your Arduino folder:
+
+   - Windows: Libraries/Documents/Arduino/
+
+   - OR My Documents/Arduino/
+
+   - Mac: Documents/Arduino/
+
+   - Linux (Ubuntu): Home/Arduino/
+  
+ 3. Once at your *libraries* folder, unzip your download.
+
+ 
+ 6.    and put  folder inside your newrly created hardware folder. You can close all folders now.
 
 ----
 ### More tutorials
