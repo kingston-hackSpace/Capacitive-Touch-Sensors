@@ -53,7 +53,9 @@ Repeat the following steps everytime you plug your board to your computer:
 ---
 ### Instructions 4: CODING EXAMPLE
 
+1. Download this [basic example] and upload it to your Touch Board.
 
+2. Touch the board's electrodes to trigger the sounds!
 
 ----
 ### More tutorials
