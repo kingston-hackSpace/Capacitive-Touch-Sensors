@@ -30,18 +30,17 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 - [Full Data Sheet here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/TouchBoard_TechDataSheet.pdf)
 
 ----
-### SET-UP INSTRUCTIONS (start here!)
+### Instructions 1: SET-UP (start here!)
 
 Follow our [SET-UP INSTRUCTIONS](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/BareConduct_setup.md) to use the Touch Board for the first time. 
 
 ----
-### AUDIO INSTRUCTIONS
+### Instructions 2: AUDIO
 
-Set-up your audio files as instructed [here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/audio_instructions.md)
+Follow our [AUDIO INSTRUCTIONS](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/audio_instructions.md) here
 
 ---
-
-### Instructions 4: Select the board
+### Instructions 3: SELECT THE BOARD
 
 Repeat the following steps everytime you plug your board to your computer:
 
@@ -50,6 +49,12 @@ Repeat the following steps everytime you plug your board to your computer:
 2. At the same box, it should say Bare Conductive Touch Board **in bold letters**
 
 3. Your board is ready to programme!
+
+---
+### Instructions 4: CODING EXAMPLE
+
+
+
 ----
 ### More tutorials
 
