@@ -37,7 +37,7 @@ Follow our [SET-UP INSTRUCTIONS](https://github.com/kingston-hackSpace/Capacitiv
 ----
 ### AUDIO INSTRUCTIONS
 
-Set-up your audio files as instructed [here]
+Set-up your audio files as instructed [here](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/audio_instructions.md)
 
 ---
 
