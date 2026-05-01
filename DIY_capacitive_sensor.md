@@ -16,7 +16,7 @@ Any conductive material could be used as a capacitive sensor, just by programmin
 
 - Open the Arduino IDE
 
-- Open the Library Manager ("book shelf" icon at the left side of the Arduino IDE)
+- Open the *Library Manager* ("book shelf" icon at the left side of the Arduino IDE)
 
 - Search for the following libraries at the search box (install both):
 
@@ -24,14 +24,18 @@ Any conductive material could be used as a capacitive sensor, just by programmin
   
   - CapacitiveSensor
 
-- Optional: you can also download the libraries using this link. You will need to locate them in Arduino's main library folder. 
-  
-----
-#### WIRING 
+- Optional: you can also download the libraries using [this link](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/DIY_Cap_libraries.zip). You will need to locate them in Arduino's main library folder. 
 
 ----
 ### TUTORIAL 1: Trigger to the touch
 
+- See [wiring diagram here]
 
+- Download and upload [this code] to your Arduino board
+  
 ----
 ### TUTORIAL 2: Sensing (capacitive) proximity
+
+- See [wiring diagram here]
+
+- Download and upload [this code] to your Arduino board
