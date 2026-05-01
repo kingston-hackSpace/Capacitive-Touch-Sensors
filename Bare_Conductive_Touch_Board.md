@@ -85,7 +85,7 @@ Find additional instructions (with images) [here](https://github.com/kingston-ha
 
 10. Open Arduino IDE, and navegate (top bare) > Tools > Boards > Bare Conductive Boards > Bare Conductive Board
 
-11. Done! You *don't need* to repeat this steps again. 
+11. Done! You *don't need* to repeat these steps again. 
 
 ----
 ### Instructions 3: Installing libraries
