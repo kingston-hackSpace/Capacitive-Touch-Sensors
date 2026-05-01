@@ -57,7 +57,7 @@ One of the Touch Board’s key features is its on‑board MP3 player and MIDI sy
 ----
 ### Instructions 2: Hardware Plugin
 
-Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board we are using, in this case, the Bare Conductive Touch Board. However, you cannot find the Touch Board from Tools - Boards. We have to download and put the plugin in place.
+Find additional instructions (with images) [here]
 
 1. Quit Arduino if you have it opened.
 
@@ -86,6 +86,8 @@ Whenever we use an Arduino, we have to tell the Arduino IDE which Arduino board 
 10. Open Arduino IDE, and navegate (top bare) > Tools > Boards > Bare Conductive Boards > Bare Conductive Board
 
 11. Done! You *don't need* to repeat this steps again. 
+
+---
 
 ### Instructions 3: Select the board
 
