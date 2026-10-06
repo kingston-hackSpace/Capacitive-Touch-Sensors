@@ -17,9 +17,11 @@
   - TRACK002.mp3
   
   - ...up to TRACK011.mp3
+ 
+- Turn off your bare-conductive board and removed the micro-SD card
 
- - Save the files in the micro SD card provided in your kit. 
+- Save the files in the micro SD card (you may need a SD-card to USB adapter to plug it to your computer)
 
- - Insert the card in the Bare Conductive Touch Board.
+- Insert the card back in the Bare Conductive Touch Board.
 
- - Done!
+- Done!
