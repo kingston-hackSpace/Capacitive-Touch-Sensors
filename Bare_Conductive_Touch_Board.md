@@ -48,11 +48,13 @@ Repeat the following steps every time you plug your board to your computer:
 
 2. Make sure the on/off switch at the bottom left corner of your Touch Board is switched to ON. You should see the green light next to the on/off switch come on.
 
-3. Open the Arduino IDE, and select the corresponding board from the box at the top left of your Arduino IDE (might be something like "/dev/cu/usbmodem1101") and click OK.
+3. Open the Arduino IDE.
+  
+4. Go to **Tools > Board > Bare Conductive Boards > Bare Conductive Touch Board**
+  
+5. Go to **Tools > Port** and select the corresponding port for this board (might be something like "/dev/cu/**usb**modem1101").
 
-4. At the same box, it should say Bare Conductive Touch Board **in bold letters**
-
-5. Your board is ready to programme!
+6. Done! Your board is ready to be programmed!
 
 ---
 ### Instructions 4: CODING EXAMPLE
