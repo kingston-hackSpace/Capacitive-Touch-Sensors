@@ -16,7 +16,7 @@ We'll connect switches to the board's A0–A5 pins, ask a hackSpace technician i
 
 - microSD card
 
-- push button (or any materials to open/close the circuit)
+- (x6) push button (or any materials to open/close the circuit)
 
 - hamburger speaker
 
