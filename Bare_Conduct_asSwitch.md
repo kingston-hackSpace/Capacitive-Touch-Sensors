@@ -42,11 +42,8 @@ We'll connect switches to the board's A0–A5 pins, ask a hackSpace technician i
 
 - In your Arduino IDE, remember to select the corresponding  BOARD and PORT
 
-- Upload this code to your board
+- Upload [this code](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Bare_Conduct_buttons.ino) to your board
 
 - Press the buttons! You should hear the soundtracks being triggered by the buttons. 
 
 
-
-
-```
