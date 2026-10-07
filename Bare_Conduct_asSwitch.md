@@ -7,7 +7,7 @@ So far we've used the Touch Board's electrodes as capacitive sensors, reacting t
 
 This approach is more reliable than capacitive touch, and it opens up a different kind of interaction: objects that respond to being used. A door that's opened, a lid that's lifted, a phone handset that's picked up or a mat that's stepped on can all become triggers. 
 
-We'll connect switches to the board's A0–A5 pins, ask a hackSpace technician if you have the right board to make this connections.
+We'll connect switches to the board's A0–A5 pins, ask a hackSpace technician if you have the right board to make these connections.
 
 ----
 ## HARDWARE
@@ -24,3 +24,29 @@ We'll connect switches to the board's A0–A5 pins, ask a hackSpace technician i
 
 ----
 ## WIRING
+
+<img src="Bare_Conduct_Switch_bb.jpg" width=800>
+
+*Note: click on image to expand
+
+----
+## CODE and INSTRUCTIONS
+
+- Soundtracks should be already loaded in the microSD-card. They should be titled "TRACK000.mp3, TRACK001.mp3 ... -> TRACK005.mp3
+
+- Plug the Bare Conductive Board to your computer (if you haven't already)
+
+- Plug the hamburger speaker to your board and turn it on. 
+
+- Turn the board ON (if you haven't already)
+
+- In your Arduino IDE, remember to select the corresponding  BOARD and PORT
+
+- Upload this code to your board
+
+- Press the buttons! You should hear the soundtracks being triggered by the buttons. 
+
+
+
+
+```
