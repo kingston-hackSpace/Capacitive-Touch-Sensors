@@ -70,13 +70,15 @@ Repeat the following steps every time you plug your board to your computer:
 
 [Getting Started with the Touch Board](https://www.hackster.io/bareconductiveteam/getting-started-with-the-touch-board-96f9b3)
 
-[How to Program the Touch Board for On Board MIDI Mode](https://www.hackster.io/bare-conductive/how-to-program-the-touch-board-for-on-board-midi-mode-006023)
-
 [How to Fade an LED On with Proximity and the Touch Board](https://www.hackster.io/bareconductiveteam/how-to-fade-an-led-on-with-proximity-and-the-touch-board-ea465e)
+
+[How to Use the Touch Board as a Switch (open/closed circuits)]
 
 [How to Get Polyphonic Playback with the Touch Board](https://www.hackster.io/bareconductiveteam/how-to-get-polyphonic-playback-with-the-touch-board-705bf7)
 
 [How to Do Projection Mapping with the Touch Board](https://www.hackster.io/bareconductiveteam/how-to-do-projection-mapping-with-the-touch-board-542dcd)
+
+[How to Program the Touch Board for On Board MIDI Mode](https://www.hackster.io/bare-conductive/how-to-program-the-touch-board-for-on-board-midi-mode-006023)
 
 [How to Send Data via Bluetooth with the Touch Board](https://www.hackster.io/bareconductiveteam/how-to-send-data-via-bluetooth-with-the-touch-board-68017b)
 
