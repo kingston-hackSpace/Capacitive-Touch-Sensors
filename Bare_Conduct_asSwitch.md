@@ -12,11 +12,13 @@ We'll connect switches to the board's A0–A5 pins, ask a hackSpace technician i
 ----
 ## HARDWARE
 
-- Bare Conductive Touch Board (with analog pins abilitated)
+- Bare Conductive Touch Board (with headers soldered)
 
 - microSD card
 
 - push button (or any materials to open/close the circuit)
+
+- hamburger speaker
 
 - jumper wires
 
