@@ -72,7 +72,7 @@ Repeat the following steps every time you plug your board to your computer:
 
 [How to Fade an LED On with Proximity and the Touch Board](https://www.hackster.io/bareconductiveteam/how-to-fade-an-led-on-with-proximity-and-the-touch-board-ea465e)
 
-[How to Use the Touch Board as a Switch (open/closed circuits)]
+[How to Use the Touch Board as a Switch (open/closed circuits)](https://github.com/kingston-hackSpace/Capacitive-Touch-Sensors/blob/main/Bare_Conduct_asSwitch.md)
 
 [How to Get Polyphonic Playback with the Touch Board](https://www.hackster.io/bareconductiveteam/how-to-get-polyphonic-playback-with-the-touch-board-705bf7)
 
